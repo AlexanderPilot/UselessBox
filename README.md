@@ -1,4 +1,4 @@
-# UselessBox
+# Useless Box
 
 ## Hardware
 - Microcontroller: Arduino Nano
